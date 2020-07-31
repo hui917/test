@@ -28,7 +28,7 @@ public class Test {
 
         System.out.println(uuid);
         System.out.println(name);
-
+//添加一行
         System.out.println("=======================");
 
         List<Integer> test = Arrays.asList(123, -1, 10, 7, 0);

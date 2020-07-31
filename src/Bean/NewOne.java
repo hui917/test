@@ -8,5 +8,6 @@ public class NewOne {
     {
         //123
         //123123123123
+        System.currentTimeMillis();
     }
 }

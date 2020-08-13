@@ -50,6 +50,8 @@ public class Test {
         for(String orgIdTemp : str.split(",")){
             System.out.println(orgIdTemp);
         }
+//git 插入
+System.out.println("git");
 
     }
 }
